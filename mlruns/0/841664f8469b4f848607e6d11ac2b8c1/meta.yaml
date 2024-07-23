@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tonyai/Desktop/weather2/mlruns/0/841664f8469b4f848607e6d11ac2b8c1/artifacts
+end_time: 1721585156184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 841664f8469b4f848607e6d11ac2b8c1
+run_name: Data Preprocessing
+run_uuid: 841664f8469b4f848607e6d11ac2b8c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721585155847
+status: 3
+tags: []
+user_id: tonyai

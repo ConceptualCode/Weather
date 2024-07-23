@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tonyai/Desktop/weather2/mlruns/0/4beeb40e90984584846a7f971228fd99/artifacts
+end_time: 1721591068499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4beeb40e90984584846a7f971228fd99
+run_name: awesome-eel-93
+run_uuid: 4beeb40e90984584846a7f971228fd99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721591059905
+status: 3
+tags: []
+user_id: tonyai

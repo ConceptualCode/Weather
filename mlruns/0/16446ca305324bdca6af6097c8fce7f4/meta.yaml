@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tonyai/Desktop/weather2/mlruns/0/16446ca305324bdca6af6097c8fce7f4/artifacts
+end_time: 1721590988283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16446ca305324bdca6af6097c8fce7f4
+run_name: omniscient-flea-678
+run_uuid: 16446ca305324bdca6af6097c8fce7f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721590987927
+status: 4
+tags: []
+user_id: tonyai

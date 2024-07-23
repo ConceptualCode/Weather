@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tonyai/Desktop/weather2/mlruns/0/da918ce66162431bbf8cf9f44ad86225/artifacts
+end_time: 1721590722339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da918ce66162431bbf8cf9f44ad86225
+run_name: languid-owl-610
+run_uuid: da918ce66162431bbf8cf9f44ad86225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721590722262
+status: 4
+tags: []
+user_id: tonyai

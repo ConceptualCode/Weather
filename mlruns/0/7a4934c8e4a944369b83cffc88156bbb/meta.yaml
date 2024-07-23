@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tonyai/Desktop/weather2/mlruns/0/7a4934c8e4a944369b83cffc88156bbb/artifacts
+end_time: 1721584462230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a4934c8e4a944369b83cffc88156bbb
+run_name: amazing-slug-848
+run_uuid: 7a4934c8e4a944369b83cffc88156bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721584461830
+status: 4
+tags: []
+user_id: tonyai

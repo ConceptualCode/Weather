@@ -1,0 +1,41 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.14.3
+model_size_bytes: 38045803
+model_uuid: ec8d08b2037549d5b349d7a5fe252225
+run_id: 5c217cc1a05e42e79d59656cc23cc91e
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "country", "required": true}, {"type": "string",
+    "name": "city", "required": true}, {"type": "double", "name": "latitude", "required":
+    true}, {"type": "double", "name": "longitude", "required": true}, {"type": "double",
+    "name": "temp_min", "required": true}, {"type": "double", "name": "temp_max",
+    "required": true}, {"type": "double", "name": "pressure", "required": true}, {"type":
+    "double", "name": "humidity", "required": true}, {"type": "double", "name": "sea_level",
+    "required": true}, {"type": "double", "name": "ground_level", "required": true},
+    {"type": "double", "name": "wind_speed", "required": true}, {"type": "double",
+    "name": "wind_degree", "required": true}, {"type": "string", "name": "sunrise",
+    "required": true}, {"type": "string", "name": "sunset", "required": true}, {"type":
+    "double", "name": "timezone", "required": true}, {"type": "double", "name": "cloud",
+    "required": true}, {"type": "string", "name": "description", "required": true},
+    {"type": "string", "name": "region", "required": true}, {"type": "double", "name":
+    "population", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-07-21 16:37:50.879543'

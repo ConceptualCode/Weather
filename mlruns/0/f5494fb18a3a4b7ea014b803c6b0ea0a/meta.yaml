@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tonyai/Desktop/weather2/mlruns/0/f5494fb18a3a4b7ea014b803c6b0ea0a/artifacts
+end_time: 1721590762348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5494fb18a3a4b7ea014b803c6b0ea0a
+run_name: gaudy-gnu-317
+run_uuid: f5494fb18a3a4b7ea014b803c6b0ea0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721590762271
+status: 4
+tags: []
+user_id: tonyai
